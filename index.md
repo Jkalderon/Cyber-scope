@@ -1,5 +1,4 @@
-# CYBER SCOP  |  Recursos de Ciberseguridad para entornos empresariales
-
+# CYBER SCOP  |  Hablemos de Ciberseguridad
 ## Un poco sobre mí
 
 Soy Julio Calderón, como profesional de Ciberseguridad entiendo lo dificil que es mantenerse actualizado y disponer de recursos para proteger la seguridad de las empresas.
