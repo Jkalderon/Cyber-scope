@@ -1,17 +1,14 @@
 # CYBER SCOP  |  Recursos de Ciberseguridad para entornos empresariales
 
-
-
-
 ## Un poco sobre mí
 
-Soy [Tu Nombre] y soy un [Tu Profesión/Descripción]. Me apasiona [Tus Intereses/Pasiones].
+Soy Julio Calderón, como profesional de Ciberseguridad entiendo lo dificil que es mantenerse actualizado y disponer de recursos para proteger la seguridad de las empresas.
+Este blog busca brindarte material de formación y herramientas para gestionar la Ciberseguridad, prevenir el fraude y mejorar la resiliencia de tu empresa.
 
 En este sitio web, encontrarás información sobre:
-
-* [Tema 1, por ejemplo: Mis proyectos de desarrollo]
-* [Tema 2, por ejemplo: Mis reflexiones sobre tecnología]
-* [Tema 3, por ejemplo: Mi portafolio de diseño]
+* Material de formación en Ciberseguridad
+* Post relacionado al uso de herramientas de Ciberseguridad
+* Noticias y temas relevantes.
 
 ## Últimas publicaciones
 
@@ -32,12 +29,9 @@ En este sitio web, encontrarás información sobre:
 ## Contacto
 
 ¡No dudes en ponerte en contacto conmigo!
-
-* **Correo electrónico:** [Tu correo electrónico]
-* **LinkedIn:** [Enlace a tu perfil de LinkedIn](tu-enlace-de-linkedin)
-* **Twitter:** [Enlace a tu perfil de Twitter](tu-enlace-de-twitter)
-* **GitHub:** [Enlace a tu perfil de GitHub](tu-enlace-de-github)
-
+* **LinkedIn:** linkedin.com/in/julio-calderón-aguilar-5415b942
+* **Twitter:** [[Enlace a tu perfil de Twitter](tu-enlace-de-twitter)](https://x.com/Calderjulio)
+* **GitHub:** [[Enlace a tu perfil de GitHub](tu-enlace-de-github)](https://github.com/Jkalderon)
 ---
 
-© [Tu Nombre] [Año actual]
+© Julio Calderón | 2025
